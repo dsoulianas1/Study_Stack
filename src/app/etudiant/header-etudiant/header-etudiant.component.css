@@ -1,0 +1,27 @@
+.row {
+    margin-bottom: 20px; /* Adjust margin bottom for the row */
+  }
+
+  .form-control {
+    border-radius: 5px; /* Adjust border radius for the input field */
+  }
+
+  .input-group-text {
+    background-color: #007bff; /* Adjust background color for the search button */
+    color: #FFF; /* Adjust text color for the search button */
+    border: none; /* Remove border for the search button */
+    border-top-right-radius: 5px; /* Adjust border radius for the top right corner of the button */
+    border-bottom-right-radius: 5px; /* Adjust border radius for the bottom right corner of the button */
+  }
+
+  .input-group-text:hover {
+    background-color: #0056b3; /* Adjust background color on hover for the search button */
+  }
+
+  .input-group-text i {
+    color: #FFF; /* Adjust color of the search icon */
+  }
+
+  h4 {
+    color: rgba(0, 0, 0, 0.424); /* Adjust color for h4 */
+  }

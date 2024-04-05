@@ -1,0 +1,46 @@
+.nav {
+    background: linear-gradient(to right, #003E36, #000000);
+    background-size: 100%; /* Adjust the background size */
+    color: #FFF;
+  }
+  
+  
+  .navbar-toggler {
+    border-color: #28D41F;
+  }
+  
+  .nav-link {
+    color: #FFF;
+  }
+  
+  .nav-link:hover {
+    background-color: rgba(240, 231, 231, 0.04);
+  }
+  
+  .navbar-brand img {
+    width: 50px;
+    height: 50px;
+  }
+  
+  .navbar-brand h1 {
+    font-size: 50px;
+    margin-left: 10px;
+  }
+  
+  .navbar-nav .nav-item {
+    margin-right: 15px;
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 20px;
+    transition: all 0.3s ease;
+  }
+  
+  .navbar-nav .nav-item:hover .nav-link {
+    font-size: 22px;
+  }
+  
+  .logout {
+    margin-top: 10px; /* Adjust margin top for logout */
+  }
+  

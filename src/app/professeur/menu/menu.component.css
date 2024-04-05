@@ -1,0 +1,38 @@
+.accordion-item {
+    background-color: #f0f0f0; /* Adjust background color of accordion item */
+    border: 1px solid #ccc; /* Adjust border color and style of accordion item */
+    border-radius: 3px; /* Adjust border radius */
+    margin-bottom: 5px; /* Adjust margin between accordion items */
+    padding: 0px; /* Adjust padding */
+  }
+  
+  
+  .accordion-header {
+    padding: 5px 5px; /* Adjust padding of accordion header */
+  }
+  
+  .accordion-button {
+    color: #333; /* Adjust text color of accordion button */
+  }
+  
+  .accordion-button:hover {
+    background-color: #ddd; /* Adjust background color on hover */
+  }
+  
+  .accordion-collapse {
+    padding: 10px; /* Adjust padding of accordion content */
+  }
+  
+  .list-group-item {
+    border: none !important; /* Remove border of list group items */
+    padding: 5px 0; /* Adjust padding of list group items */
+  }
+  
+  .list-group-item a {
+    color: #007bff; /* Adjust link color */
+  }
+  
+  .list-group-item a:hover {
+    text-decoration: underline; /* Add underline on link hover */
+  }
+  

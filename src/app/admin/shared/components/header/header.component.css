@@ -1,0 +1,44 @@
+nav {
+  background: linear-gradient(to right, #003E36, #000000); /* Adjust colors as needed */
+  color: #FFF;
+  padding: 20px 0; /* Increase padding for the navbar */
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+}
+
+.content ul {
+  list-style: none;
+  display: flex;
+  margin: 0;
+}
+
+.content ul li {
+  margin-right: 20px; /* Adjust spacing between list items */
+  cursor: pointer;
+  font-size: 18px; /* Adjust font size */
+}
+
+.content ul li img {
+  width: 40px; /* Adjust icon size */
+  height: 40px; /* Adjust icon size */
+  margin-right: 10px; /* Adjust spacing between icon and text */
+}
+
+
+
+.content ul li:last-child {
+  margin-right: 0; /* Remove margin for the last list item */
+}
+
+.content ul li:hover {
+  font-weight: bold; /* Highlight text on hover */
+}

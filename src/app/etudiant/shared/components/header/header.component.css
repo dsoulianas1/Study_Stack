@@ -1,0 +1,45 @@
+.nav {
+  background: linear-gradient(to right, #003E36, #000000);
+  color: #FFF;
+  padding: 20px 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+}
+
+.user-icon {
+  width: 80px;
+  height: 40px;
+}
+
+.professeur-name {
+  color: rgb(40, 212, 31);
+  margin-left: 10px;
+  margin-right: 10px;
+  font-size: 20px; /* Adjust font size */
+}
+
+.logout {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.logout span {
+  font-size: 23px; /* Increase font size */
+  color: #ffffff99;
+  margin-left: 8px; /* Adjust margin for spacing */
+}
+
+.logout:hover span {
+  color: #FFF;
+}
